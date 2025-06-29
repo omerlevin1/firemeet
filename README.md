@@ -1,1 +1,1 @@
-RUN Server.py then MAIN_homepage
+RUN Server.py then FIREMET_HOMe
